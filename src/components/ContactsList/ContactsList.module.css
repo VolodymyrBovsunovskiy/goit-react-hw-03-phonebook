@@ -1,0 +1,9 @@
+span {
+  margin-right: 10px;
+}
+li:not(:last-child) {
+  margin-bottom: 10px;
+}
+button {
+  cursor: pointer;
+}
